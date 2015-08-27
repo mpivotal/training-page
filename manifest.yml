@@ -1,0 +1,5 @@
+applications:
+- name: training-page
+  path: .
+  buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack
+
